@@ -75,7 +75,7 @@ services:
   #     - backend
 
 volumes:
-  pgdata:
+  postgres-data:
 
 networks:
   backend:
